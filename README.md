@@ -133,22 +133,19 @@ I'm especially interested in **AI integration**, **cloud & serverless architectu
 
 <p align="center">
 
+  <a href="https://www.linkedin.com/in/joel-m-cayllahua-hilario-568a3031b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
   <a href="https://github.com/Joelxd12O">
-    <img
-      src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
   <a href="https://www.instagram.com/soy_joelll/">
-    <img
-      src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Instagram"
-    />
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 
 </p>
-
 ---
 ## 🐍 A Snake Eating my Contributions Graph
 
