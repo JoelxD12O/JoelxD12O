@@ -147,6 +147,7 @@ I'm especially interested in **AI integration**, **cloud & serverless architectu
 
 </p>
 ---
+
 ## 🐍 A Snake Eating my Contributions Graph
 
 <p align="center">
